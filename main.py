@@ -10,10 +10,10 @@ def info() -> typing.Dict:
 
     return {
         "apiversion": "1",
-        "author": "",  # TODO: Your Battlesnake Username
-        "color": "#4A412A",  # TODO: Choose color
-        "head": "tiger-king",  # TODO: Choose head
-        "tail": "weight",  # TODO: Choose tail
+        "author": "t-boner",
+        "color": "#4A412A",
+        "head": "tiger-king", 
+        "tail": "weight",
     }
 
 # start is called when your Battlesnake begins a game
